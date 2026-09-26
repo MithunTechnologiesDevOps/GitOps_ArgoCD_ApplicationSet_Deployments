@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: java-container
-        image: mithuntechnologies/java-web-application:1
+        image: mithuntechnologies/java-web-application:2
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
